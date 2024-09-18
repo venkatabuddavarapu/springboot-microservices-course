@@ -7,6 +7,8 @@ We will build a BookStore application using Spring Boot, Spring Cloud, and Docke
 
 ![BookStore Microservices Architecture](docs/bookstore-spring-microservices.png)
 
+
+
 ## Modules
 * **catalog-service**: 
   This services provides REST API for managing catalog of products(books).
